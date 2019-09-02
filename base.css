@@ -1,0 +1,25 @@
+* {
+}
+
+body {
+color: black;
+background: #f0f0ff;
+width: 800px;
+margin: auto; 
+padding: 20px 20px 20px 20px;  
+overflow: auto;
+}
+
+a:link {
+color: blue
+}
+a:visited {
+color: red
+}
+a:hover {
+color: #AAAAFF
+}
+a:active {
+color: yellow
+}
+
